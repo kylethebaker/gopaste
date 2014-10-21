@@ -14,11 +14,11 @@ import (
 
 
 var (
-	ROOT_PATH = "/home/kyle/apps/earths.center/pastes/"
+	ROOT_PATH = "/path/to/app/root/"
 	PASTE_PATH = ROOT_PATH + "pastes/"
 	TMPLT_PATH = ROOT_PATH + "static/"
 
-	SITE_URL = "http://earths.center/"
+	SITE_URL = "http://siteurl.com/"
 	LISTEN_PORT = "8001"
 
 	LANGS = []string{"markup", "html", "css", "clike", "javascript", "java",
