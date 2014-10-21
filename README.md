@@ -1,6 +1,6 @@
 # GoPaste
 
-___simple command line pastebin-esque site for personal use___
+__Simple command line pastebin-esque site for personal use.__
 
 Using [prismjs](http://prismjs.com/) for the optional syntax highlighting
 and Gorilla Toolkit [Mux](http://www.gorillatoolkit.org/pkg/mux) for routing.
@@ -18,7 +18,7 @@ and Gorilla Toolkit [Mux](http://www.gorillatoolkit.org/pkg/mux) for routing.
 
 I like to add ``` | xargs firefox``` to the end to open it in firefox
 
-You can add ?lang=html to the url to get syntax highlighting. The langs
+You can add ```?lang=html``` to the url to get syntax highlighting. The langs
 supported are provided by Prism. Without the lang param (or with an invalid
 lang), a plaintext response is served. You can see the LANGS global for 
 langauges I've included from prismjs.
