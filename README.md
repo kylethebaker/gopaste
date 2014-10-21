@@ -1,8 +1,6 @@
 # GoPaste
 
-_simple command line pastebin-esque site for personal use_
-
-- - -
+___simple command line pastebin-esque site for personal use___
 
 Using [prismjs](http://prismjs.com/) for the optional syntax highlighting
 and Gorilla Toolkit [Mux](http://www.gorillatoolkit.org/pkg/mux) for routing.
@@ -28,7 +26,7 @@ langauges I've included from prismjs.
 ## Thanks
 
 Thanks for http://sprunge.us for the idea which I shamelessly copied. Thanks
-to prismjs for the awesome syntax highlighting. Thanks to Goriall Toolkit for 
+to prismjs for the awesome syntax highlighting. Thanks to Gorilla Toolkit for 
 the awesome Golang http extensions.
 
 ## Disclaimer
